@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: cd5dde84-0ec9-4367-bb0a-5f57e9929921
   WEBAPP-NAME: az400-webapp-Felix
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
